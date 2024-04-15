@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "296c29deb486efc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c623b12f85cea58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0898585f4ebfe313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/2. 索引.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af9f8b9aaed745c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/JavaSE/10. 注解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eecc7996425f247d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/1. 基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "039cd2ce13568ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/JavaSE/7. IO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad5aedc1c12a7c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JUC/1. 基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8d77a0a91053af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e7569d280da98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b8bf1e4274ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4a79f3113d37b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ed0a690721ce161",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "41ae16921e186dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0604e7bd834e9b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d59d5a46b4e4714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MySQL/2. 索引.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61f5ac88a5fc9d22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MySQL/2. 索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb35aa91180b38a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1e6975670eb7143",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MySQL/2. 索引.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0898585f4ebfe313",
+  "lastOpenFiles": [
+    "MySQL/1. 基础.md",
+    "Java/JavaSE/10. 注解.md",
+    "MySQL/2. 索引.md",
+    "MySQL/5. 日志.md",
+    "MySQL/4. 锁.md",
+    "MySQL/3. 事务.md",
+    "JVM/4. 虚拟机执行.md",
+    "JVM/3. JVM调优.md",
+    "JVM/2. 内存管理.md",
+    "JVM/1. 引言.md",
+    "MQ/RocketMQ/2. 进阶.md",
+    "MQ/RocketMQ/3. 原理.md",
+    "MQ/RocketMQ/1. 基础.md",
+    "Redis/1. 面试篇.md",
+    "MySQL/Total MySQL.md",
+    "MySQL/6. 内存.md",
+    "Spring/6. SpringBoot.md",
+    "image/Pasted image 20240415011435.png",
+    "image/Pasted image 20240415024745.png",
+    "Spring/1. 基础.md",
+    "Spring/5. MVC.md",
+    "Spring/4. 事务.md",
+    "Spring/3. AOP.md",
+    "Spring/2. IOC.md",
+    "Java/JavaSE/9. 泛型.md",
+    "Java/JavaSE/11. 反射.md",
+    "Java/设计模式.md",
+    "Java/JavaSE/7. IO.md",
+    "image/Pasted image 20240414165658.png",
+    "image/Pasted image 20240414010418.png",
+    "image/Pasted image 20240414012901.png",
+    "image/Pasted image 20240414012843.png",
+    "image/Pasted image 20240414012620.png",
+    "image/Pasted image 20240414012530.png",
+    "image/Pasted image 20240414012354.png",
+    "image/Pasted image 20240414012340.png",
+    "未命名",
+    "Java/JavaSE",
+    "MQ",
+    "MQ/RocketMQ",
+    "JUC",
+    "MyBatis",
+    "JVM",
+    "Spring",
+    "Java",
+    "Redis"
+  ]
+}
