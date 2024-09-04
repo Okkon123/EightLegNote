@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JUC/6. 线程池.md",
+                "file": "Redis/6. 缓存篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JUC/6. 线程池.md",
+                "file": "Redis/6. 缓存篇.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JUC/6. 线程池.md",
+                "file": "Redis/6. 缓存篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JUC/6. 线程池.md"
+                "file": "Redis/6. 缓存篇.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "039cd2ce13568ffc",
   "lastOpenFiles": [
+    "Redis/Redis.md",
+    "计网/2. HTTP.md",
+    "计网/1. 基础.md",
+    "计网/3. TCP.md",
+    "计网/Total 计网.md",
+    "Java/Java集合.md",
+    "Java/设计模式.md",
     "Java/JavaSE/2. 基础语法.md",
+    "Java/JavaSE/3. 面向对象.md",
     "Java/JavaSE/1. Java 概述.md",
+    "Redis/6. 缓存篇.md",
     "JUC/6. 线程池.md",
     "MQ/RocketMQ/3. 原理.md",
     "MQ/RocketMQ/2. 进阶.md",
@@ -165,16 +174,7 @@
     "Redis/3. 持久化篇.md",
     "Redis/2. 数据类型篇.md",
     "Redis/5. 高可用篇.md",
-    "Redis/6. 缓存篇.md",
     "MySQL/5. 日志.md",
-    "MySQL/3. 事务.md",
-    "Java/Java集合.md",
-    "Java/JavaSE/3. 面向对象.md",
-    "MySQL/4. 锁.md",
-    "MySQL/2. 索引.md",
-    "MySQL/1. 基础.md",
-    "Spring/6. SpringBoot.md",
-    "Spring/5. MVC.md",
     "image/Pasted image 20240810181057.png",
     "image/Pasted image 20240804170117.png",
     "image/Pasted image 20240530201341.png",
